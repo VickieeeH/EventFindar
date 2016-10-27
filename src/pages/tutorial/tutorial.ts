@@ -22,7 +22,7 @@ export class TutorialPage {
   constructor(public navCtrl: NavController, public menu: MenuController) {
     this.slides = [
       {
-        title: 'Welcome to <b>ICA</b>',
+        title: 'Welcome to <b>EventFinda</b>',
         description: 'The <b>Ionic Conference App</b> is a practical preview of the Ionic Framework in action, and a demonstration of proper code use.',
         image: 'assets/img/ica-slidebox-img-1.png',
       },
